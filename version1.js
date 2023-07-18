@@ -2,4 +2,4 @@ const test = () => {
   console.log('version god');
 }
 
-const fea = 3;
+const fea = 4;
